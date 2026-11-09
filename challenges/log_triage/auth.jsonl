@@ -1,0 +1,4 @@
+{"event_id":"log-01","timestamp":"2026-04-02T09:14:03Z","host":"lab-workstation","user":"analyst","action":"login_success","detail":"interactive session from 192.0.2.14"}
+{"event_id":"log-02","timestamp":"2026-04-02T09:18:41Z","host":"lab-workstation","user":"analyst","action":"archive_created","detail":"/tmp/reports.tar.gz; source=/home/analyst/reports"}
+{"event_id":"log-03","timestamp":"2026-04-02T09:20:07Z","host":"lab-workstation","user":"analyst","action":"note_decoded","detail":"short encoded operator note","encoded_note":"ZmxhZ3tmb2xsb3dfdGhlX3Byb2Nlc3NfY2hhaW59"}
+{"event_id":"log-04","timestamp":"2026-04-02T09:21:33Z","host":"lab-workstation","user":"analyst","action":"egress_observed","detail":"synthetic connection to documentation-only TEST-NET-3 address 203.0.113.77"}
